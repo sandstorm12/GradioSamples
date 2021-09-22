@@ -8,6 +8,11 @@ A collection gradio samples useful for learning and bootstrapping.
 This is a personal project under development. All feature requests and bug reports are much appreciated.
 
 
+## Table of examples:
+- [Image Classification](image_classification)
+- [Image Captioning](image_captioning)
+
+
 ## Initialize
 
 ```bash
