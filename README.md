@@ -25,6 +25,9 @@ python3 -m pip install -r requirements.txt
 
 ## Issues and future work
 1. Add more examples (different types of inputs and outputs)
+2. Add sample inputs to the page
+3. Add object detection example
+4. Add video modification example
 
 
 ## Contributors
