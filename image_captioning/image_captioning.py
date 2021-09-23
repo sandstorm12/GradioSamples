@@ -30,7 +30,7 @@ input_image = gradio.inputs.Image(
     source="upload",
     tool="editor",
     type="numpy",
-    label="Image to be classified",
+    label="Image to be captioned",
     optional=False
 )
 
