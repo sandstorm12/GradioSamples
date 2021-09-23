@@ -11,6 +11,7 @@ This is a personal project under development. All feature requests and bug repor
 ## Table of examples:
 - [Image Classification](image_classification)
 - [Image Captioning](image_captioning)
+- [Image Object Detection](image_object_detection)
 
 
 ## Initialize
