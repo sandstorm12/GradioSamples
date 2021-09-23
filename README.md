@@ -3,6 +3,9 @@
 A collection gradio samples useful for learning and bootstrapping.
 
 
+## [Gradio Original Documentation](https://gradio.app/docs)
+
+
 ## Notice
 
 This is a personal project under development. All feature requests and bug reports are much appreciated.
