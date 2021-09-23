@@ -8,7 +8,7 @@ A collection gradio samples useful for learning and bootstrapping.
 This is a personal project under development. All feature requests and bug reports are much appreciated.
 
 
-## Table of examples:
+## Table of contents:
 - [Image Classification](image_classification)
 - [Image Captioning](image_captioning)
 - [Image Object Detection](image_object_detection)
